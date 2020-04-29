@@ -1,8 +1,13 @@
 – Unit Testing 
 What is unit Testing? 
-Unit Testing is conducted by ______________ 
-It is type of (blackbox/whitebox testing)
+Unit testing is execution of a complete class,rotine or small program that has been written by a single programmer,which is tested in isolation from the more complete system.
+Unit Testing is conducted by developer.
+It is type of (blackbox)
 – Integration Testing 
 What is Integration Testing? 
-Integration Testing is conducted by ______________ 
-It is type of (blackbox/whitebox testing)
+Integration testing is the combined execution of two or more classes,packages,components,or subsystems that have been created by multiple programmers or programming team.
+Integration Testing is conducted by programmer.
+It is type of (whitebox testing)
+
+Updated by 01_SujitKumarKuwar
+
